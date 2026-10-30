@@ -1,52 +1,63 @@
-# Awesome-Affiliate-Marketing-Software
+<div align="center">
 
-# Awesome-Affiliate-Marketing-Software
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Affiliate Marketing Software Banner" width="100%" />
+</p>
 
-**Top Affiliate Marketing Software (Opensource) 🌟 Star if you like it! 🌟**
+# 🚀 Awesome Affiliate Marketing Software
 
+**A curated index of top affiliate marketing platforms, referral tracking systems, partner management tools, and open-source attribution infrastructure.** 🌟 Star if you find it valuable! 🌟
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Affiliate-Marketing-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Affiliate-Marketing-Software?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Affiliate-Marketing-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Affiliate-Marketing-Software?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Affiliate-Marketing-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Affiliate-Marketing-Software?style=flat-square&color=green" alt="Open Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Affiliate-Marketing-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Affiliate-Marketing-Software?style=flat-square&color=orange" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+*Comprehensive guide for affiliate tracking, partner relationship management (PRM), referral attribution, commission payouts, and self-hosted ad network tracking.*
 
-*Focused on Affiliate Tracking, Partner Programs, Referral Attribution & Commission Management*
+**Last updated: October 2026** 📅
 
-**Last updated: October 2026**
+</div>
 
+---
 
+## 📖 Overview & Ecosystem Scope
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Affiliate Marketing Software**. These tools enable businesses to recruit affiliates, track referrals, calculate commissions, and manage partner payouts--from fully managed enterprise platforms with fraud detection and multi-tier networks to self-hosted tracking systems and open-source referral platforms that give organizations complete control over their affiliate data and payout logic.
+This repository tracks production-grade **SaaS platforms** and **open-source GitHub projects** designed for **Affiliate Marketing Software** and **Referral Systems**. These tools enable businesses, SaaS founders, and growth engineers to recruit affiliates, track referrals via cookie-less or pixel methods, calculate multi-tier commissions, combat attribution fraud, and automate partner payouts.
 
+- 🏢 **Enterprise SaaS Platforms:** From fully managed ecosystems with global compliance and influencer discovery (e.g., HubSpot, Impact.com, PartnerStack, Everflow) to Stripe-native subscription tracking (e.g., Rewardful, FirstPromoter).
+- 💻 **Open-Source Infrastructure:** From lightweight self-hosted conversion analytics and AI-driven affiliate discovery to TDS (traffic distribution) engines and modular referral frameworks for Laravel and Django.
 
+> 💡 **Contributions welcome!** Have an open-source affiliate tool or PRM platform to add? Feel free to open a Pull Request.
 
-**Examples** include Impact.com, PartnerStack, Post Affiliate Pro, Rewardful, Tapfiliate, FirstPromoter, Everflow, Refersion, TUNE, and HubSpot Affiliate Management (the category leaders in commercial space).
+---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosting, affiliate tracking, and open referral infrastructure. **Critical note**: True open-source affiliate marketing software--production-ready with fraud detection, multi-tier commissions, and mature partner portals--is extremely sparse. The projects below are **early-stage referral platforms**, **self-hosted tracking systems**, or **niche tools** that developers build upon. None replicate the depth of Impact.com or PartnerStack for enterprise partner ecosystems.
+---
 
+## 📊 Sector Overview & Market Dynamics
 
+The global affiliate marketing software and platform sector is estimated at **$2.1 billion to over $5 billion** (powering a broader global affiliate ecosystem spend exceeding **$18 billion to $24 billion** with ~10%-16% CAGR). 
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+The market is **moderately to highly fragmented** rather than a winner-take-all monopoly: while enterprise orchestration suites (like Impact.com and PartnerStack) capture large brand programs, hundreds of specialized SaaS solutions, e-commerce native plugins, and self-hosted trackers compete across distinct operational niches such as B2B subscription tracking, creator commerce, and media-buyer performance networks.
 
+---
 
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global affiliate marketing software and platform sector is estimated at **$2.1 billion to over $5 billion** (powering a broader global affiliate ecosystem spend exceeding **$18 billion to $24 billion** with ~10%-16% CAGR). The market is **moderately to highly fragmented** rather than a winner-take-all monopoly: while enterprise orchestration suites (like Impact.com and PartnerStack) capture large brand programs, hundreds of specialized SaaS solutions, e-commerce native plugins, and self-hosted trackers compete across distinct operational niches such as B2B subscription tracking, creator commerce, and media-buyer performance networks.
-
-
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS/Hosted Platforms
 
 | Product | Company Size (Valuation / Revenue) | Pricing | Free Tier / Free Trial Limit | Best For / Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -61,108 +72,127 @@ The global affiliate marketing software and platform sector is estimated at **$2
 | **[Tapfiliate](https://tapfiliate.com/)** | **~$1M ARR Estimate** (Acquired by Mitgo / Admitad) | Starts at **$89/month** (Launch tier, up to 50 affiliates, 5,000 clicks, 500 conversions/month); Scale tier at **$179/month** | **7-Day Free Trial** on Launch tier; **14-Day Free Trial** on Scale tier (full features, API, and automation access) | E-commerce merchants and SaaS startups wanting customizable affiliate portals, multi-language support, and flexible commissions. |
 | **[FirstPromoter](https://firstpromoter.com/)** | **~$30M+ Monthly Client MRR Tracked** (Bootstrapped indie SaaS) | Starts at **$49/month** (Starter, up to $5,000/month affiliate revenue, 1,000 promoters); Business at **$99/month** (up to $15,000/month) | **14-Day Free Trial** (full access with no credit card required to test billing integrations with Stripe/Paddle/Chargebee) | Subscription businesses and SaaS founders wanting turnkey affiliate and referral tracking with multi-tier commissions and tax form workflows. |
 
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[RefRef](https://github.com/jpgaviria2/refref)**
-
-  **Open-source referral and affiliate marketing platform** (AGPL-3.0) -- **the most feature-complete open-source referral platform** found in this research. **Features**: Referral attribution via JS snippet; customizable rewards; referrer portal and **partner portal for affiliates**; personalized referral landing pages; automated nudges to boost engagement; **fraud monitoring**; manual and automatic reward approval and dispersal; engagement analytics; testing sandbox . **Tech stack**: TypeScript, Next.js, React, PostgreSQL, Redis, BullMQ, Drizzle, TailwindCSS . **Deploy**: Docker Compose (recommended) or local setup with Node.js 20+ . **Trade-off**: **Alpha stage**--the project explicitly warns "expect bugs and breaking changes" . No multi-tier commissions, no coupon-based attribution, no mature payout integrations. **Best for**: developers wanting a working open-source referral platform foundation with fraud monitoring and partner portals, and willing to accept alpha-stage stability.
-
-
-
-- **[Refferq](https://github.com/Refferq/Refferq)**
-
-  **Open-source referral and affiliate marketing platform for SaaS** (license per repo) -- **the most SaaS-focused open-source affiliate tool** in this list. **Features**: Referral management with lead approval workflow; **automated commission calculations** with flexible rules; payout scheduling (NET-15, NET-30) and multiple methods (PayPal, Bank Transfer, Stripe, Wise); customizable program branding; cookie tracking settings; country blocking; email automation; affiliate dashboard with earnings, click tracking, and marketing resources . **Tech stack**: Next.js 15, React 19, TypeScript, PostgreSQL, Prisma, JWT, TailwindCSS, Resend . **Deploy**: Self-hosted (Node.js 18+, PostgreSQL 14+) . **Trade-off**: **Manual lead submission**--affiliates submit leads manually rather than through automatic click attribution . No fraud detection. Newer project with limited community validation. **Best for**: SaaS founders wanting a self-hosted affiliate platform with commission automation and payout tracking, without complex click-tracking infrastructure.
-
-
-
-- **[Capve](https://github.com/Cap-go/Capve)**
-
-  **Open-source, self-hosted affiliate tracking for indie and SaaS founders** (license per repo) -- **the most infrastructure-conscious open-source option**, designed for Cloudflare deployment. **Features**: Unique tracking links, click-through cookies, server-side conversion attribution; **MCP server** with 90 tools for AI-assisted management (campaigns, affiliates, paths, anti-fraud blocklists, reports); program management with destination URLs and `velo_ref` parameter attribution; team roles; email/password auth with rate limiting; deploy to Cloudflare Workers + D1 database . **Tech stack**: React, Vite, Tailwind (frontend); Cloudflare Worker (Hono), D1 (backend) . **Deploy**: One-click Cloudflare deployment (`wrangler.toml`) . **Trade-off**: **Cloudflare-dependent**--not a traditional VPS deployment. No commission calculation automation, no payout processing. **Best for**: indie developers and SaaS founders already on Cloudflare wanting lightweight affiliate tracking with AI-assisted management via MCP.
-
-
-
-- **[Simple KUMA](https://github.com/kumatrk/initialrelease/blob/1c500f4e517f01951a6fdeae77642636dac71771/README.md)**
-
-  **Self-hosted affiliate and media-buyer tracking** (AGPL-3.0) -- **the most feature-rich open-source tracker for performance marketers**. **Features**: Campaign management with multi-step wizard; traffic sources with token mapping (Facebook, Google, TikTok); landing pages and offers with rotation; **Facebook/Meta and Google Ads cost sync**; conversion tracking with postbacks and pixels; drill-down stats by country, device, ISP, lander, offer, and tokens; pre-aggregated tables for performance; GeoIP and device detection; REST API v1; dark mode . **Tech stack**: PHP, MySQL. **Deploy**: Self-hosted on shared hosting or VPS (install from release zip, point document root to `public/`) . **Trade-off**: **Media-buyer focused**--built for tracking paid traffic and affiliate campaigns, not SaaS referral programs. No affiliate portal or commission management for partners. **Best for**: performance marketers and media buyers wanting a self-hosted tracker with ad platform cost sync, without SaaS subscription fees.
-
-
-
-- **[slimTDS](https://github.com/izzipizzy/slimtds)**
-
-  **Open-source, self-hosted traffic tracker and distribution system** (AGPL-3.0) -- **a modern TDS (Traffic Distribution System)** for affiliate marketers. **Features**: Geo/device routing; conversion tracking with S2S postbacks; session replay via pixel events; **MCP server** for AI-assisted management; 15 Keitaro-like flow schema types; FingerprintJS visitor tracking; range-partitioned stats tables for scale . **Tech stack**: FrankenPHP worker mode, PostgreSQL, Slim 4 . **Deploy**: Self-hosted (Docker Compose with OrbStack for local testing) . **Trade-off**: **Traffic distribution, not affiliate program management**--no commission calculation, no partner portal, no payout processing. Technical documentation is decision-oriented (D1-D23), not user-friendly. **Best for**: affiliate marketers and media buyers wanting a modern, self-hosted TDS with click distribution and conversion tracking, willing to operate technical infrastructure.
-
-
-
-- **[Traffic Source](https://railway.com/deploy/traffic-source)**
-
-  **Open-source, self-hosted web analytics with conversion tracking and affiliate management** (license per repo) -- **a lightweight all-in-one option** for small businesses. **Features**: Real-time analytics (visitors, pageviews, sessions, bounce rate); traffic source and UTM tracking; geo and device tracking; Google Search Console integration; **Stripe conversion tracking** (polling-based, no webhooks); **affiliate system with custom commission rates and public dashboards**; visitor journey session replay; multi-site support; privacy-first (no cookies) . **Tech stack**: Next.js 16, React 19, SQLite, Stripe API . **Deploy**: Railway one-click or VPS (Node.js 20+, Cloudflare optional for geo) . **Trade-off**: **Analytics-first with basic affiliate features**--affiliate system is simple (commission rates, referral links) without advanced fraud detection, multi-tier, or payout automation. SQLite limits scale. **Best for**: small businesses wanting self-hosted analytics with basic affiliate tracking on a $4 VPS, without monthly SaaS fees.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Affiliates Manager (WordPress)** -- Open-source WordPress plugin for WooCommerce affiliate programs (GPL). **Note**: WordPress-specific; deep WooCommerce integration but no standalone platform . **Best for**: WooCommerce store owners wanting affiliate tracking within WordPress.
-
-- **mangosqueezy** -- Open-source affiliate marketing tool (license per repo, ~136 stars) . **Note**: Minimal documentation; requires evaluation before production use. **Best for**: developers wanting to explore an open-source affiliate tool.
-
-- **ReferralHub** -- MERN stack referral management platform (GPL-3.0) . **Note**: Referral campaigns, not full affiliate management--no commission automation or payout processing. **Best for**: businesses wanting a simple referral campaign tracker.
-
-
-
-**Frameworks for building custom systems**: Combine **RefRef** for referral platform foundations with **Simple KUMA** for ad-platform cost sync and conversion tracking, **Capve** for Cloudflare-native lightweight tracking, and **Refferq** for SaaS commission automation--creating an affiliate stack. **None of these provide the fraud detection depth, multi-tier networks, or mature partner ecosystems** of Impact.com or PartnerStack; those require commercial platforms or significant custom development.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1-2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list -- not exhaustive and not an endorsement.
-
-- Affiliate marketing platforms handling tracking data and commissions must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate fraud prevention and disclosure practices (FTC guidelines).
-
-- **The "enterprise partner platform" vs. "self-hosted tracker" vs. "early-stage referral platform" distinction is critical.** **Impact.com, PartnerStack, Post Affiliate Pro, Rewardful, Tapfiliate, FirstPromoter, Everflow, Refersion, TUNE, and HubSpot** are **mature platforms**--they provide fraud detection, multi-tier commissions, and partner ecosystems. **RefRef** and **Refferq** are **early-stage referral platforms**--they provide commission calculation and partner portals but are alpha-stage or have manual workflows . **Simple KUMA, slimTDS, and Traffic Source** are **trackers**--they focus on click and conversion tracking, not affiliate program management or payouts. **No open-source project provides a production-ready Impact.com or PartnerStack replacement.**
-
-- **RefRef is the most feature-complete open-source referral platform** with fraud monitoring, partner portals, and reward automation . **The trade-off**: it is explicitly alpha-stage with breaking changes expected . **Do not deploy it for production affiliate programs without accepting instability.**
-
-- **Refferq is the most SaaS-oriented open-source option** with commission automation and multiple payout methods, but it relies on **manual lead submission** rather than automatic click attribution . **This is a significant limitation** for performance-based affiliate tracking.
-
-- **Simple KUMA and slimTDS are media-buyer trackers, not affiliate program platforms.** They excel at tracking paid traffic, conversion postbacks, and ad platform cost sync, but they do not provide partner portals, commission calculation, or payout processing . **Choose based on whether you need to track your own campaigns or manage affiliates.**
-
-- **Pricing opacity is universal across commercial vendors.** Impact.com, PartnerStack, Post Affiliate Pro (self-hosted license), Rewardful, Tapfiliate, FirstPromoter, Everflow, Refersion, TUNE, and HubSpot require sales contact or revenue-based estimation. **Validate with direct vendor conversations against your affiliate volume and payout complexity.**
-
-- Self-hosted open-source solutions require proper server setup, security hardening, backup configuration, and ongoing maintenance. **Affiliate tracking data contains PII and financial information**--ensure your deployment meets your organization's privacy and security requirements before processing live affiliate activity.
-
-
+---
+
+## 💻 Open-Source GitHub Projects
+
+*Sorted in descending order by GitHub Stars ⭐. Star counts are updated live via badges linking directly to each repository's stargazers.*
+
+1. **[Traffic Source](https://github.com/mddanishyusuf/traffic-source)** [![GitHub stars](https://img.shields.io/github/stars/mddanishyusuf/traffic-source?style=social&color=white)](https://github.com/mddanishyusuf/traffic-source/stargazers)
+   - **Focus**: Self-hosted web analytics with Stripe conversion attribution and affiliate management.
+   - **Tech Stack**: Next.js 16, React 19, SQLite, Stripe API, Railway one-click deploy.
+   - **License**: Custom / Open Repo
+   - **Highlights**: Privacy-friendly without cookies, real-time UTM and conversion tracking, affiliate dashboards with custom commission rates, and public partner dashboards.
+
+2. **[Raider](https://github.com/valeriansaliou/raider)** [![GitHub stars](https://img.shields.io/github/stars/valeriansaliou/raider?style=social&color=white)](https://github.com/valeriansaliou/raider/stargazers)
+   - **Focus**: Affiliates dashboard for partner link generation, balance auditing, and payout logs.
+   - **Tech Stack**: Node.js, Express, Pug, Docker.
+   - **License**: Apache-2.0
+   - **Highlights**: Production-grade affiliate dashboard used by commercial platforms to provide partners with customized tracking code generation, commission history, and live balances.
+
+3. **[mangosqueezy](https://github.com/cluwise/mangosqueezy)** [![GitHub stars](https://img.shields.io/github/stars/cluwise/mangosqueezy?style=social&color=white)](https://github.com/cluwise/mangosqueezy/stargazers)
+   - **Focus**: Autonomous AI agent to scout, recruit, and manage affiliate partners for SaaS products.
+   - **Tech Stack**: Python, OpenAI / LLM APIs, LangChain, Playwright.
+   - **License**: AGPL-3.0
+   - **Highlights**: Automates outbound affiliate recruitment, partner onboarding, and programmatic outreach to scale brand partnerships.
+
+4. **[laravel-referral](https://github.com/voocx/laravel-referral)** [![GitHub stars](https://img.shields.io/github/stars/voocx/laravel-referral?style=social&color=white)](https://github.com/voocx/laravel-referral/stargazers)
+   - **Focus**: Turnkey referral tracking and commission system for Laravel PHP frameworks.
+   - **Tech Stack**: PHP, Laravel, Eloquent ORM.
+   - **License**: MIT
+   - **Highlights**: Easily integrates into existing Laravel apps to generate unique referral links, track visitor cookies, bind users to referrers, and disburse rewards upon milestone completion.
+
+5. **[Refferq](https://github.com/Refferq/Refferq)** [![GitHub stars](https://img.shields.io/github/stars/Refferq/Refferq?style=social&color=white)](https://github.com/Refferq/Refferq/stargazers)
+   - **Focus**: Open-source referral and affiliate platform designed specifically for SaaS companies.
+   - **Tech Stack**: Next.js 15, React 19, TypeScript, PostgreSQL, Prisma, Resend.
+   - **License**: Custom / Open Repo
+   - **Highlights**: Automated commission calculations, customizable program branding, cookie tracking controls, payout scheduling (NET-15, NET-30 via PayPal, Bank, Wise), and affiliate dashboard.
+
+6. **[eLitius](https://github.com/intelliants/elitius)** [![GitHub stars](https://img.shields.io/github/stars/intelliants/elitius?style=social&color=white)](https://github.com/intelliants/elitius/stargazers)
+   - **Focus**: Classic self-hosted affiliate tracking system and manager.
+   - **Tech Stack**: PHP, MySQL, Smarty Templates.
+   - **License**: GPL-2.0
+   - **Highlights**: Complete administrative backend with affiliate registration approval, customizable banner and text link management, real-time impression/click tracking, and commission management.
+
+7. **[django-referral-system](https://github.com/soldatov-ss/django-referral-system)** [![GitHub stars](https://img.shields.io/github/stars/soldatov-ss/django-referral-system?style=social&color=white)](https://github.com/soldatov-ss/django-referral-system/stargazers)
+   - **Focus**: Pluggable Django referral program package with promoter management and payout exports.
+   - **Tech Stack**: Python, Django, PostgreSQL.
+   - **License**: MIT
+   - **Highlights**: Handles referral link attribution, promoter dashboard views, commission payout calculation, Wise CSV export generation, and conversion analytics.
+
+8. **[Simple KUMA](https://github.com/kumatrk/initialrelease)** [![GitHub stars](https://img.shields.io/github/stars/kumatrk/initialrelease?style=social&color=white)](https://github.com/kumatrk/initialrelease/stargazers)
+   - **Focus**: Self-hosted tracker with Facebook/Meta and Google Ads cost sync for performance media buyers.
+   - **Tech Stack**: PHP, MySQL, REST API.
+   - **License**: AGPL-3.0
+   - **Highlights**: Campaign management wizard, token mapping for ad sources (TikTok, Meta, Google), landing page and offer rotation, S2S postback conversion attribution, and real-time drill-down statistics.
+
+9. **[refearnapp](https://github.com/ZAK123DSFDF/refearnapp)** [![GitHub stars](https://img.shields.io/github/stars/ZAK123DSFDF/refearnapp?style=social&color=white)](https://github.com/ZAK123DSFDF/refearnapp/stargazers)
+   - **Focus**: High-scale affiliate tracking and referral management suite (open-source alternative to Rewardful and FirstPromoter).
+   - **Tech Stack**: Next.js, Cloudflare Edge Workers, Drizzle ORM, Docker.
+   - **License**: AGPL-3.0
+   - **Highlights**: Edge-optimized link attribution, partner portal, automated commission calculation rules, and developer-first webhook infrastructure.
+
+10. **[slimTDS](https://github.com/izzipizzy/slimtds)** [![GitHub stars](https://img.shields.io/github/stars/izzipizzy/slimtds?style=social&color=white)](https://github.com/izzipizzy/slimtds/stargazers)
+    - **Focus**: Traffic distribution and tracking system (TDS) for performance marketing campaigns.
+    - **Tech Stack**: FrankenPHP, PostgreSQL, Slim 4, Docker Compose.
+    - **License**: AGPL-3.0
+    - **Highlights**: Geo/device intelligent routing, conversion postback tracking, session replay via pixel events, Keitaro-like flow schemas, and MCP (Model Context Protocol) server integration.
+
+11. **[Capve](https://github.com/Cap-go/Capve)** [![GitHub stars](https://img.shields.io/github/stars/Cap-go/Capve?style=social&color=white)](https://github.com/Cap-go/Capve/stargazers)
+    - **Focus**: Serverless affiliate tracking for indie hackers and micro-SaaS founders on Cloudflare.
+    - **Tech Stack**: React, Vite, Cloudflare Workers (Hono), Cloudflare D1.
+    - **License**: Custom / Open Repo
+    - **Highlights**: Lightweight link attribution, server-side conversion webhooks, zero server maintenance via Cloudflare D1, and built-in MCP server support.
+
+12. **[RefRef](https://github.com/jpgaviria2/refref)** [![GitHub stars](https://img.shields.io/github/stars/jpgaviria2/refref?style=social&color=white)](https://github.com/jpgaviria2/refref/stargazers)
+    - **Focus**: Full-stack referral and affiliate infrastructure platform.
+    - **Tech Stack**: TypeScript, Next.js, PostgreSQL, Redis, BullMQ, TailwindCSS.
+    - **License**: AGPL-3.0
+    - **Highlights**: JS snippet attribution, partner affiliate portal, automated email nudges, fraud monitoring heuristics, and testing sandbox.
 
 ---
 
+## 🤝 How to Contribute
 
+We welcome contributions from the community! To suggest a new tool or improve an existing listing:
 
-**Made for developers, marketing teams, and organizations building transparent affiliate marketing solutions.**
+1. 🍴 **Fork** this repository.
+2. 🌿 Create a new branch: `git checkout -b feature/add-software-name`.
+3. 📝 Update `README.md` with:
+   - Platform name & official website/repository URL.
+   - Clear classification (SaaS vs. Open-Source).
+   - Specific pricing model & free trial limits (for SaaS) or license & stars (for Open-Source).
+4. 🚀 Submit a **Pull Request** with a concise description of why the tool is valuable.
 
-Let's make Affiliate Marketing Software more open, data-driven, and partner-friendly.
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Affiliate-Marketing-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Affiliate-Marketing-Software&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting this curated resource! If this project helped you find the right affiliate tracking platform, architectural blueprint, or open-source software:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** it across developer and marketing communities.
+- ☕ **Support ongoing maintenance**: You can buy me a coffee and support open-source work directly through the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**.
+
+Your support keeps these curated ecosystems updated and verified! 🚀
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated index** for research, development, and architectural comparison; it does not constitute an official endorsement of any vendor or service.
+- **Regulatory Compliance**: Affiliate marketing and attribution platforms handle user tracking, personally identifiable information (PII), and financial commission distributions. Ensure your implementation complies with applicable privacy laws (GDPR, CCPA, ePrivacy) and marketing disclosure mandates (FTC guidelines).
+- **Security & Maintenance**: Self-hosted open-source software requires dedicated server hardening, SSL termination, and regular maintenance. Evaluate alpha-stage codebases carefully prior to handling mission-critical partner revenue.
+
+---
+
+<div align="center">
+  <b>Maintained with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and contributors.</b><br />
+  <sub>Let's make affiliate tracking more open, developer-friendly, and transparent.</sub>
+</div>
