@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Affiliate-Marketing-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Affiliate-Marketing-Software?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Affiliate-Marketing-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Affiliate-Marketing-Software?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Affiliate-Marketing-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Affiliate-Marketing-Software?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Affiliate-Marketing-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Affiliate-Marketing-Software?style=flat-square&color=green" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Affiliate-Marketing-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Affiliate-Marketing-Software?style=flat-square&color=orange" alt="License" /></a>
@@ -76,75 +76,75 @@ The market is **moderately to highly fragmented** rather than a winner-take-all 
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted in descending order by GitHub Stars ⭐. Star counts are updated live via badges linking directly to each repository's stargazers.*
+*Sorted in descending order by GitHub_Stars ⭐. Stars_Counts are updated live via badges linking directly to each repository's stargazers.*
 
-1. **[Traffic Source](https://github.com/mddanishyusuf/traffic-source)** [![GitHub stars](https://img.shields.io/github/stars/mddanishyusuf/traffic-source?style=social&color=white)](https://github.com/mddanishyusuf/traffic-source/stargazers)
+1. **[Traffic Source](https://github.com/mddanishyusuf/traffic-source)** [![GitHub_Stars](https://img.shields.io/github/stars/mddanishyusuf/traffic-source?style=social&color=white)](https://github.com/mddanishyusuf/traffic-source/stargazers)
    - **Focus**: Self-hosted web analytics with Stripe conversion attribution and affiliate management.
    - **Tech Stack**: Next.js 16, React 19, SQLite, Stripe API, Railway one-click deploy.
    - **License**: Custom / Open Repo
    - **Highlights**: Privacy-friendly without cookies, real-time UTM and conversion tracking, affiliate dashboards with custom commission rates, and public partner dashboards.
 
-2. **[Raider](https://github.com/valeriansaliou/raider)** [![GitHub stars](https://img.shields.io/github/stars/valeriansaliou/raider?style=social&color=white)](https://github.com/valeriansaliou/raider/stargazers)
+2. **[Raider](https://github.com/valeriansaliou/raider)** [![GitHub_Stars](https://img.shields.io/github/stars/valeriansaliou/raider?style=social&color=white)](https://github.com/valeriansaliou/raider/stargazers)
    - **Focus**: Affiliates dashboard for partner link generation, balance auditing, and payout logs.
    - **Tech Stack**: Node.js, Express, Pug, Docker.
    - **License**: Apache-2.0
    - **Highlights**: Production-grade affiliate dashboard used by commercial platforms to provide partners with customized tracking code generation, commission history, and live balances.
 
-3. **[mangosqueezy](https://github.com/cluwise/mangosqueezy)** [![GitHub stars](https://img.shields.io/github/stars/cluwise/mangosqueezy?style=social&color=white)](https://github.com/cluwise/mangosqueezy/stargazers)
+3. **[mangosqueezy](https://github.com/cluwise/mangosqueezy)** [![GitHub_Stars](https://img.shields.io/github/stars/cluwise/mangosqueezy?style=social&color=white)](https://github.com/cluwise/mangosqueezy/stargazers)
    - **Focus**: Autonomous AI agent to scout, recruit, and manage affiliate partners for SaaS products.
    - **Tech Stack**: Python, OpenAI / LLM APIs, LangChain, Playwright.
    - **License**: AGPL-3.0
    - **Highlights**: Automates outbound affiliate recruitment, partner onboarding, and programmatic outreach to scale brand partnerships.
 
-4. **[laravel-referral](https://github.com/voocx/laravel-referral)** [![GitHub stars](https://img.shields.io/github/stars/voocx/laravel-referral?style=social&color=white)](https://github.com/voocx/laravel-referral/stargazers)
+4. **[laravel-referral](https://github.com/voocx/laravel-referral)** [![GitHub_Stars](https://img.shields.io/github/stars/voocx/laravel-referral?style=social&color=white)](https://github.com/voocx/laravel-referral/stargazers)
    - **Focus**: Turnkey referral tracking and commission system for Laravel PHP frameworks.
    - **Tech Stack**: PHP, Laravel, Eloquent ORM.
    - **License**: MIT
    - **Highlights**: Easily integrates into existing Laravel apps to generate unique referral links, track visitor cookies, bind users to referrers, and disburse rewards upon milestone completion.
 
-5. **[Refferq](https://github.com/Refferq/Refferq)** [![GitHub stars](https://img.shields.io/github/stars/Refferq/Refferq?style=social&color=white)](https://github.com/Refferq/Refferq/stargazers)
+5. **[Refferq](https://github.com/Refferq/Refferq)** [![GitHub_Stars](https://img.shields.io/github/stars/Refferq/Refferq?style=social&color=white)](https://github.com/Refferq/Refferq/stargazers)
    - **Focus**: Open-source referral and affiliate platform designed specifically for SaaS companies.
    - **Tech Stack**: Next.js 15, React 19, TypeScript, PostgreSQL, Prisma, Resend.
    - **License**: Custom / Open Repo
    - **Highlights**: Automated commission calculations, customizable program branding, cookie tracking controls, payout scheduling (NET-15, NET-30 via PayPal, Bank, Wise), and affiliate dashboard.
 
-6. **[eLitius](https://github.com/intelliants/elitius)** [![GitHub stars](https://img.shields.io/github/stars/intelliants/elitius?style=social&color=white)](https://github.com/intelliants/elitius/stargazers)
+6. **[eLitius](https://github.com/intelliants/elitius)** [![GitHub_Stars](https://img.shields.io/github/stars/intelliants/elitius?style=social&color=white)](https://github.com/intelliants/elitius/stargazers)
    - **Focus**: Classic self-hosted affiliate tracking system and manager.
    - **Tech Stack**: PHP, MySQL, Smarty Templates.
    - **License**: GPL-2.0
    - **Highlights**: Complete administrative backend with affiliate registration approval, customizable banner and text link management, real-time impression/click tracking, and commission management.
 
-7. **[django-referral-system](https://github.com/soldatov-ss/django-referral-system)** [![GitHub stars](https://img.shields.io/github/stars/soldatov-ss/django-referral-system?style=social&color=white)](https://github.com/soldatov-ss/django-referral-system/stargazers)
+7. **[django-referral-system](https://github.com/soldatov-ss/django-referral-system)** [![GitHub_Stars](https://img.shields.io/github/stars/soldatov-ss/django-referral-system?style=social&color=white)](https://github.com/soldatov-ss/django-referral-system/stargazers)
    - **Focus**: Pluggable Django referral program package with promoter management and payout exports.
    - **Tech Stack**: Python, Django, PostgreSQL.
    - **License**: MIT
    - **Highlights**: Handles referral link attribution, promoter dashboard views, commission payout calculation, Wise CSV export generation, and conversion analytics.
 
-8. **[Simple KUMA](https://github.com/kumatrk/initialrelease)** [![GitHub stars](https://img.shields.io/github/stars/kumatrk/initialrelease?style=social&color=white)](https://github.com/kumatrk/initialrelease/stargazers)
+8. **[Simple KUMA](https://github.com/kumatrk/initialrelease)** [![GitHub_Stars](https://img.shields.io/github/stars/kumatrk/initialrelease?style=social&color=white)](https://github.com/kumatrk/initialrelease/stargazers)
    - **Focus**: Self-hosted tracker with Facebook/Meta and Google Ads cost sync for performance media buyers.
    - **Tech Stack**: PHP, MySQL, REST API.
    - **License**: AGPL-3.0
    - **Highlights**: Campaign management wizard, token mapping for ad sources (TikTok, Meta, Google), landing page and offer rotation, S2S postback conversion attribution, and real-time drill-down statistics.
 
-9. **[refearnapp](https://github.com/ZAK123DSFDF/refearnapp)** [![GitHub stars](https://img.shields.io/github/stars/ZAK123DSFDF/refearnapp?style=social&color=white)](https://github.com/ZAK123DSFDF/refearnapp/stargazers)
+9. **[refearnapp](https://github.com/ZAK123DSFDF/refearnapp)** [![GitHub_Stars](https://img.shields.io/github/stars/ZAK123DSFDF/refearnapp?style=social&color=white)](https://github.com/ZAK123DSFDF/refearnapp/stargazers)
    - **Focus**: High-scale affiliate tracking and referral management suite (open-source alternative to Rewardful and FirstPromoter).
    - **Tech Stack**: Next.js, Cloudflare Edge Workers, Drizzle ORM, Docker.
    - **License**: AGPL-3.0
    - **Highlights**: Edge-optimized link attribution, partner portal, automated commission calculation rules, and developer-first webhook infrastructure.
 
-10. **[slimTDS](https://github.com/izzipizzy/slimtds)** [![GitHub stars](https://img.shields.io/github/stars/izzipizzy/slimtds?style=social&color=white)](https://github.com/izzipizzy/slimtds/stargazers)
+10. **[slimTDS](https://github.com/izzipizzy/slimtds)** [![GitHub_Stars](https://img.shields.io/github/stars/izzipizzy/slimtds?style=social&color=white)](https://github.com/izzipizzy/slimtds/stargazers)
     - **Focus**: Traffic distribution and tracking system (TDS) for performance marketing campaigns.
     - **Tech Stack**: FrankenPHP, PostgreSQL, Slim 4, Docker Compose.
     - **License**: AGPL-3.0
     - **Highlights**: Geo/device intelligent routing, conversion postback tracking, session replay via pixel events, Keitaro-like flow schemas, and MCP (Model Context Protocol) server integration.
 
-11. **[Capve](https://github.com/Cap-go/Capve)** [![GitHub stars](https://img.shields.io/github/stars/Cap-go/Capve?style=social&color=white)](https://github.com/Cap-go/Capve/stargazers)
+11. **[Capve](https://github.com/Cap-go/Capve)** [![GitHub_Stars](https://img.shields.io/github/stars/Cap-go/Capve?style=social&color=white)](https://github.com/Cap-go/Capve/stargazers)
     - **Focus**: Serverless affiliate tracking for indie hackers and micro-SaaS founders on Cloudflare.
     - **Tech Stack**: React, Vite, Cloudflare Workers (Hono), Cloudflare D1.
     - **License**: Custom / Open Repo
     - **Highlights**: Lightweight link attribution, server-side conversion webhooks, zero server maintenance via Cloudflare D1, and built-in MCP server support.
 
-12. **[RefRef](https://github.com/jpgaviria2/refref)** [![GitHub stars](https://img.shields.io/github/stars/jpgaviria2/refref?style=social&color=white)](https://github.com/jpgaviria2/refref/stargazers)
+12. **[RefRef](https://github.com/jpgaviria2/refref)** [![GitHub_Stars](https://img.shields.io/github/stars/jpgaviria2/refref?style=social&color=white)](https://github.com/jpgaviria2/refref/stargazers)
     - **Focus**: Full-stack referral and affiliate infrastructure platform.
     - **Tech Stack**: TypeScript, Next.js, PostgreSQL, Redis, BullMQ, TailwindCSS.
     - **License**: AGPL-3.0
@@ -161,7 +161,7 @@ We welcome contributions from the community! To suggest a new tool or improve an
 3. 📝 Update `README.md` with:
    - Platform name & official website/repository URL.
    - Clear classification (SaaS vs. Open-Source).
-   - Specific pricing model & free trial limits (for SaaS) or license & stars (for Open-Source).
+   - Specific pricing model & free trial limits (for SaaS) or license & GitHub_Stars (for Open-Source).
 4. 🚀 Submit a **Pull Request** with a concise description of why the tool is valuable.
 
 ---
